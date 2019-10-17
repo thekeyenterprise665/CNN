@@ -44,5 +44,5 @@ $ python run.py -h
 </br></br>
 <p>
 First commit: May.24.2017</br>
-Developed by <a href="https://github.com/YeongHyeon"><strong>YeongHyeon Park</strong><a> (Korea)</br>
+Developed by <a href="https://github.com/thekeyenterprise665"><strong>Keyneisha McNealey</strong><a> (USA)</br>
 </p>
